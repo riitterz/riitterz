@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rehina</h1>
-<h3 align="center">An iOS Software Engineer from Ukraine</h3>
+<h1 align="center">Hi 👋, I'm Regina</h1>
+<h3 align="center">An iOS Engineer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riitterz&label=Profile%20views&color=0e75b6&style=flat" alt="riitterz" /> </p>
 
-- 🔭 I’m currently working on [Follow Nature](https://github.com/awpozdnyakov/FollowNature)
+- 🔭 I’m currently working on [Follow Nature](https://github.com/riitterz/CookBook)
 
 - 📫 How to reach me **gidirimr@gmail.com**
 
