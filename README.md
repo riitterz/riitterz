@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riitterz&label=Profile%20views&color=0e75b6&style=flat" alt="riitterz" /> </p>
 
-- 🔭 I’m currently working on [Follow Nature](https://github.com/riitterz/CookBook)
+- 🔭 I’m currently working on [Cook Book](https://github.com/riitterz/CookBook)
 
 - 📫 How to reach me **gidirimr@gmail.com**
 
